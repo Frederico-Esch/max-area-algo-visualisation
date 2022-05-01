@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "parcel index.html --open"
+  },
+  "dependencies": {
+    "@types/p5": "^1.4.2",
+    "p5": "^1.4.1",
+    "parcel": "^2.5.0"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3"
+  }
+}
